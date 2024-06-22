@@ -1,0 +1,10 @@
+.listItem {
+   display: flex;
+   justify-content: space-around;
+   align-items:  center;
+   width: 500px;
+}
+
+.listButton {
+   padding: 8px;
+}
